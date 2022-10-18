@@ -1,4 +1,4 @@
-- Computer science student studying web development and a little server-oriented stuff on the side. This is mostly a place I dump stuff I made.
+qwertyuiopasdfghjklzxcvbnm
 
 <!---
 somalia01/somalia01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
