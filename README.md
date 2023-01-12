@@ -1,4 +1,4 @@
-qwertyuiopasdfghjklzxcvbnm
+AP Computer Science Principles student and certified dummy
 
 <!---
 somalia01/somalia01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
